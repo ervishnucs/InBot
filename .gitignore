@@ -1,0 +1,8 @@
+_pycache_/
+*.py[cod]
+
+# Environment files
+.env
+
+# VSCode settings
+.vscode/
