@@ -2,4 +2,6 @@ streamlit
 openai
 thirdai
 streamlit-chat
+python-dotenv
+
 
